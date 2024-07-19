@@ -1,5 +1,5 @@
-export {Moviedetails} from "./Moviedetails"
+export {MovieDetail} from "./MovieDetail"
 export {Movielist} from "./Movielist"
-export {Pagenotfound} from "./Pagenotfound"
+export {PageNotFound} from './PageNotFound'
 export {Search} from "./Search"
 
